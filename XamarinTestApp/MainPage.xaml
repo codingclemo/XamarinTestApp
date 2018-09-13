@@ -2,6 +2,8 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:local="clr-namespace:XamarinTestApp" x:Class="XamarinTestApp.MainPage">
     <StackLayout>
         <!-- Place new controls here -->
+        <!-- This is the new content comment -->
+        <!-- This is the second test -->
         <Label Text="Welcome to Xamarin.Forms!" HorizontalOptions="Center" VerticalOptions="CenterAndExpand" />
     </StackLayout>
 
