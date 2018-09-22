@@ -23,6 +23,7 @@ namespace XamarinTestApp.Droid
             LoadApplication(new App());
         }
     }
+    // this is for the peter branch
 
     // This is a test comment for Christian
 }
