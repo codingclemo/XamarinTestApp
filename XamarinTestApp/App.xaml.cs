@@ -17,6 +17,7 @@ namespace XamarinTestApp
         protected override void OnStart()
         {
             // Handle when your app starts
+            // test
         }
 
         protected override void OnSleep()
