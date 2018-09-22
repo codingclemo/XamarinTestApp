@@ -25,8 +25,8 @@ namespace XamarinTestApp.Droid
     }
     // this is for the peter branch
 
-    // This is a test comment for Christian
-
+    // This is for Rene
+    // This as well
     // new commit line
 }
 
