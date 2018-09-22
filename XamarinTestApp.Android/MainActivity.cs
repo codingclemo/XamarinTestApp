@@ -23,7 +23,9 @@ namespace XamarinTestApp.Droid
             LoadApplication(new App());
         }
     }
-    // Thid id s commeent
+
     // This is a test comment for Christian
+
+    // And this is a comment for me
 }
 
