@@ -4,7 +4,7 @@
         <!-- Place new controls here -->
         <!-- This is the new content comment -->
         <!-- This is the second test -->
-        <!-- Comment from Christian Böhm 22.09.2018 -->
+        <!-- another test -->
         <Label Text="Welcome to Xamarin.Forms!" HorizontalOptions="Center" VerticalOptions="CenterAndExpand" />
     </StackLayout>
 
