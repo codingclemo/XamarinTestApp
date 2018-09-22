@@ -11,7 +11,7 @@ namespace XamarinTestApp
     {
         public MainPage()
         {
-            InitializeComponent();
+            InitializeComponent(); //dont do this
         }
     }
 }

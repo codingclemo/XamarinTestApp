@@ -8,5 +8,5 @@
         <Label Text="Welcome to Xamarin.Forms!" HorizontalOptions="Center" VerticalOptions="CenterAndExpand" />
     </StackLayout>
 
-    <!-- Commentary from Clemo -->
+    <!-- Commentary from Clemo and chris -->
 </ContentPage>
